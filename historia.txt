@@ -1,0 +1,4 @@
+Esta es la historia de un man 
+Un man que nacio en el 96
+
+y que actualmente esta estudiando git y github 
