@@ -4,9 +4,9 @@ Un man que nacio en el 96
 y que actualmente esta estudiando git y github 
 
 
-Mañana nos enfocaremos en su vida labpral
+Mañana nos enfocaremos en su vida laboral
 
 
 agregamos algunos cambios en el documento
 
-vim es editor
+vim es un editor de texto nativo de linux
