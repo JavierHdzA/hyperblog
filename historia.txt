@@ -8,3 +8,5 @@ Mañana nos enfocaremos en su vida labpral
 
 
 agregamos algunos cambios en el documento
+
+vim es editor de textos
