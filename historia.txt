@@ -10,3 +10,8 @@ Mañana nos enfocaremos en su vida laboral
 agregamos algunos cambios en el documento
 
 vim es un editor de texto nativo de linux
+
+Aunque en ocasiones le puedan dar un poco de miedo los cambios pues:
+"Es parte de crecer Timy.jpg"
+
+Ok, al parecer el comando reset HEAD funciona
